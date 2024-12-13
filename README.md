@@ -11,4 +11,14 @@ Dự án này sử dụng dữ liệu từ Kaggle về Adidas nhằm phân tích
 - **Dữ liệu:** Bộ dữ liệu được lấy từ [Kaggle](https://www.kaggle.com/datasets/ahmedabbas757/dataset) với thông tin chi tiết về doanh số bán hàng của Adidas.
 - **Phân tích và trực quan hóa:** Sử dụng Power BI để phân tích và trực quan hóa dữ liệu.
 - **Dashboard:** Tích hợp dashboard tương tác để trình bày kết quả và hỗ trợ ra quyết định.
-- **Dự báo:** Áp dụng các mô hình học máy như SARIMA hoặc các mô hình hồi quy để dự báo nhu cầu sản phẩm.
+- **Dự báo:** Áp dụng các mô hình học máy như SARIMA hoặc các mô hình hồi quy để dự báo nhu cầu sản phẩm.r
+
+## Dashboard Demo
+![image](https://github.com/user-attachments/assets/3ddc4126-184d-4292-9c12-6ccea10b2703)
+![image](https://github.com/user-attachments/assets/66319688-987b-4e0d-b674-8671d9a703bc)
+![image](https://github.com/user-attachments/assets/3b255b90-6237-4728-8b40-3cd073c06f16)
+![image](https://github.com/user-attachments/assets/e0f7c7bb-f464-49ad-a276-451094bd3e48)
+
+## Dự đoán doanh thu bằng SARIMA
+![image](https://github.com/user-attachments/assets/6bd53ed1-e100-4d33-8478-142e77eefd19)
+
